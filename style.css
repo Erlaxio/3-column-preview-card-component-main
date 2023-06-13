@@ -1,0 +1,72 @@
+.se {
+    position: absolute;
+    left: 5%;
+    background: orange;
+    width: 30%;
+    height: auto;
+    padding-bottom: 10%;
+    color: white;
+ }
+ 
+ .se p {
+     margin-top: 100px;
+ }
+ 
+ .se button {
+     background-color: white;
+     border: none;
+     color: orange;
+     padding: 20px;
+     margin: 2px 4px;
+     margin-top: 50px;
+     margin-left: 25%;
+     border-radius: 40px;
+ }
+ 
+ .su { 
+     position: absolute;
+     left: 35%;
+     background: rgb(47, 224, 124);
+     width: 30%;
+     height: auto;
+     padding-bottom: 10%;
+  }
+ 
+ .su p {
+     margin-top: 100px;
+ }
+ 
+ .su button {
+     background-color: white;
+     border: none;
+     color: orange;
+     padding: 20px;
+     margin: 2px 4px;
+     margin-top: 50px;
+     margin-left: 25%;
+     border-radius: 40px;
+ }
+ 
+ .lu {
+     position: absolute;
+     right: 5%;
+     background: rgb(29, 125, 71);
+     width: 30%;
+     height: auto;
+     padding-bottom: 10%;
+ }
+ 
+ .lu p {
+     margin-top: 100px;
+ }
+ 
+ .lu button {
+     background-color: white;
+     border: none;
+     color: orange;
+     padding: 20px;
+     margin: 2px 4px;
+     margin-top: 50px;
+     margin-left: 25%;
+     border-radius: 40px;
+ }
